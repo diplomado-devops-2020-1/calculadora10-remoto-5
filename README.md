@@ -5,4 +5,4 @@ Integrantes:
 - Michell Lobo
 - Daniel Morales
 - Alexander Sanhueza
--Miguel Vera
+- Miguel Vera
