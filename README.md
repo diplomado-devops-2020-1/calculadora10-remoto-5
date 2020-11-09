@@ -6,3 +6,5 @@ Integrantes:
 - Daniel Morales
 - Alexander Sanhueza
 - Miguel Vera
+- Hernán Beiza
+
