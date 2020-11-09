@@ -4,3 +4,4 @@ ejercicio9 - equipo 5
 Integrantes:
 - Michell Lobo
 - Daniel Morales
+- Alexander Sanhueza
