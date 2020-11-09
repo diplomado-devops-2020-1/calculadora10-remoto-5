@@ -7,4 +7,5 @@ Integrantes:
 - Alexander Sanhueza
 - Miguel Vera
 - Hernán Beiza
+-Felipe Salas
 
